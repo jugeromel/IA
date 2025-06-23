@@ -1,0 +1,54 @@
+Como uso o ChatGPT para revisar e corrigir redações?
+Este repositório documenta como utilizo o ChatGPT como uma ferramenta de apoio na melhoria de redações para concursos e vestibulares, com foco em provas como a da Marinha do Brasil, ENEM, entre outras. Aqui apresento como estruturo os prompts, os critérios de correção que forneço e exemplos de análise e reescrita.
+
+📌 Objetivo
+Melhorar a qualidade das minhas redações em aspectos como:
+
+Clareza e coesão textual
+
+Adequação ao tema proposto
+
+Argumentação sólida e estruturada
+
+Correção gramatical e ortográfica
+
+Alinhamento com os critérios das bancas examinadoras
+
+🧠 Estratégia geral
+Escrevo minha redação à mão
+
+Digitalizo ou fotografo e envio a imagem para o ChatGPT
+
+Junto ao prompt, envio os critérios oficiais de correção da banca
+
+Solicito a correção, nota estimada e reescrita para nota máxima
+
+Faço comparações entre minha versão e a versão corrigida para evoluir
+
+
+
+📎 Exemplos de prompts que uso
+✅ 1. Envio com critérios de correção
+Com base nesses critérios de correção da redação (copiados abaixo), atribua uma nota à minha redação e justifique. 
+
+[Cole aqui os critérios da banca — exemplo da Marinha:]
+6.2.1.2 - Aspectos a serem considerados na correção da Redação, totalizando 100 pontos:  
+a) Temática e tipologia textual: enquadramento do texto (20 pontos);  
+b) Desenvolvimento argumentativo: processo de seleção e aprofundamento de ideias; organização de texto (20 pontos);  
+c) Repertório cultural: articulação da realidade do texto com a realidade cultural evidente (20 pontos);  
+d) Coesão e Coerência: construção/articulação entre as ideias (20 pontos);  
+e) Modalidade Linguística: expressividade da ideia de acordo com a variedade formal da língua (20 pontos).  
+
+[Depois disso, envio a imagem da redação.]
+✅ 2. Reescrita para pontuação máxima
+
+Reescreva a redação com base no tema proposto e nos critérios da banca para alcançar a pontuação máxima, mantendo o sentido e a ideia central da versão original.
+✅ 3. Correção gramatical e de coesão (sem reescrever tudo)
+
+Corrija os erros gramaticais, de ortografia e coesão textual da redação abaixo, mas sem mudar a estrutura original. Apenas melhore a fluidez e a correção formal do texto.
+✅ 4. Avaliação mais criteriosa
+
+Se você fosse um corretor mais exigente, quanto minha nota seria reduzida? O que está mais fraco na argumentação, coesão ou repertório cultural?
+✅ 5. Checagem de alinhamento temático
+
+O tema era: "Oceanopolítica e economia do mar: desafios e oportunidades para o desenvolvimento estratégico do Brasil". Minha redação está bem alinhada ao tema? Ou você acha que houve uma fuga parcial ou total?
