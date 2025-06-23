@@ -13,5 +13,5 @@ Crie um tema de redação dissertativa argumentativa, com base no seguinte model
 - Finalizar com:
   **"A partir da leitura dos textos de apoio e de suas reflexões, redija uma dissertação argumentativa a respeito do tema [...]"**
 
-  ## Prompt - Correção do texto com base nos critérios do edital:
+
 
