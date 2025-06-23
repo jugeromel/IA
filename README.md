@@ -1,7 +1,7 @@
 # IA
 Modelos de aprendizagem de inteligência artificial para estudos
 
-prompts-ia-concursos-marinha/
+prompts-ia-concursos/
 │
 ├── README.md
 ├── prompts/
@@ -10,9 +10,9 @@ prompts-ia-concursos-marinha/
 │   ├── 03_mapa_mental_conteudo_geral.md
 │   ├── 04_mapa_mental_economia_brasileira.md
 
-# Prompts de IA para Concursos da Marinha (QCIM e CP-QC-IM)
+# Prompts de IA para Concursos 
 
-Este repositório contém modelos de prompts otimizados para uso com ferramentas de Inteligência Artificial como o ChatGPT e o DeepSeek. Eles foram elaborados para auxiliar no estudo e preparação para concursos da Marinha do Brasil, especialmente os quadros de intendência.
+Este repositório contém modelos de prompts otimizados para uso com ferramentas de Inteligência Artificial como o ChatGPT e o DeepSeek. Eles foram elaborados para auxiliar no estudo e preparação para concursos, especialmente para Marinha do Brasil para intendência.
 
 ## ✅ Ferramentas indicadas
 
