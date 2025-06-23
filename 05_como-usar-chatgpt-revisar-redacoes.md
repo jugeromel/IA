@@ -43,9 +43,21 @@ d) Coesão e Coerência: construção/articulação entre as ideias (20 pontos);
 e) Modalidade Linguística: expressividade da ideia de acordo com a variedade formal da língua (20 pontos).  
 
 [Depois disso, envio a imagem da redação.]
+```
+✅ 2. Reescrita para pontuação máxima
+```markdown
 Reescreva a redação com base no tema proposto e nos critérios da banca para alcançar a pontuação máxima, mantendo o sentido e a ideia central da versão original.
+```
+✅ 3. Correção gramatical e de coesão (sem reescrever tudo)
+```markdown
 Corrija os erros gramaticais, de ortografia e coesão textual da redação abaixo, mas sem mudar a estrutura original. Apenas melhore a fluidez e a correção formal do texto.
+```
+✅ 4. Avaliação mais criteriosa
+```markdown
 Se você fosse um corretor mais exigente, quanto minha nota seria reduzida? O que está mais fraco na argumentação, coesão ou repertório cultural?
+```
+✅ 5. Checagem de alinhamento temático
+```markdown
 O tema era: "Oceanopolítica e economia do mar: desafios e oportunidades para o desenvolvimento estratégico do Brasil". Minha redação está bem alinhada ao tema? Ou você acha que houve uma fuga parcial ou total?
 
 ```
