@@ -33,7 +33,7 @@ O roteiro deve ser:
 - Repetir os **termos e conceitos principais** para reforço da memória
 - Explorar as palavras-chave e conceitos relevantes ao longo do texto (mesmo que explicados de forma simplificada)
 
-O conteúdo a ser abordado deve incluir todo o pdf selecionado
-Com base na apostila selecionada, elabore um  podcast didático**, fluido e com linguagem simples, que facilite a memorização dos conteúdos de contabilidade e orçamento publicos. 
+O conteúdo a ser abordado deve incluir TODO o pdf selecionado
+ 
 
 ```
