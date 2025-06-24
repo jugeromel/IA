@@ -23,7 +23,7 @@ O conteúdo a ser abordado inclui:  [cole o conteúdo específico do edital que 
 
 Prompt para a caixa: "personalizar"
 ```markdown
-Com base na apostila selecionada, elabore um  podcast didático**, fluido e com linguagem simples, que facilite a memorização dos conteúdos de contabilidade e orçamento publicos. 
+Com base na apostila selecionada, elabore um  podcast didático**, fluido e com linguagem simples, que facilite a memorização dos conteúdos de [disciplina]
 
 O roteiro deve ser:
 
