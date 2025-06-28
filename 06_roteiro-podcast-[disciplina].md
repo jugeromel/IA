@@ -40,5 +40,5 @@ O conteúdo a ser abordado deve incluir TODO o pdf selecionado
 
 ou
 ```markdown
-Crie um podcast didático com base na apostila selecionada, com linguagem simples e fluida, organizado por tópicos. Use exemplos práticos, repita termos-chave para reforço da memória e explore todos os conceitos de contabilidade e orçamento público do PDF. O roteiro deve ser direto, explicativo e cobrir todo o conteúdo do material
+Crie um podcast didático com base na apostila selecionada, com linguagem simples e fluida, organizado por tópicos. Use exemplos práticos, repita termos-chave para reforço da memória e explore todos os conceitos de [disciplina] do PDF. O roteiro deve ser direto, explicativo e cobrir todo o conteúdo do material
 ```
