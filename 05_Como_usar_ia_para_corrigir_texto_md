@@ -1,58 +1,50 @@
-# 📝 Como uso o ChatGPT para revisar e corrigir redações
+# 📝 Uso do ChatGPT para Revisão e Correção de Redações
 
-Este repositório documenta como utilizo o ChatGPT como uma ferramenta de apoio na **melhoria de redações para concursos e vestibulares**, com foco em provas como a da Marinha do Brasil, ENEM, entre outras. Aqui apresento **como estruturo os prompts**, **os critérios de correção que forneço** e exemplos de análise e reescrita.
+Este repositório documenta minha metodologia de utilização do ChatGPT como ferramenta de apoio para **revisão e aprimoramento de redações**, com foco em concursos públicos (como Marinha do Brasil) e vestibulares (ENEM e outros). Aqui compartilho:
 
----
-
-## 📌 Objetivo
-
-Melhorar a qualidade das minhas redações em aspectos como:
-
-- Clareza e coesão textual  
-- Adequação ao tema proposto  
-- Argumentação sólida e estruturada  
-- Correção gramatical e ortográfica  
-- Alinhamento com os critérios das bancas examinadoras  
+- 📌 **Estrutura de prompts** eficientes  
+- 🎯 **Critérios de correção** adaptados por banca examinadora  
+- ✍️ **Exemplos práticos** de análise e reescrita textual  
 
 ---
 
-## 🧠 Estratégia geral
+## 🚀 Objetivos Principais
 
-1. Escrevo minha redação à mão  
-2. Digitalizo ou fotografo e envio a imagem para o ChatGPT  
-3. Junto ao prompt, envio os critérios oficiais de correção da banca  
-4. Solicito a correção, nota estimada e reescrita para nota máxima  
-5. Faço comparações entre minha versão e a versão corrigida para evoluir  
+Melhorar minhas redações em cinco eixos essenciais:
+
+1. **Clareza e Coesão** - Organização lógica das ideias  
+2. **Adequação Temática** - Alinhamento preciso com a proposta  
+3. **Argumentação** - Estrutura sólida e persuasiva  
+4. **Precisão Linguística** - Gramática, ortografia e norma culta  
+5. **Adaptação a Bancas** - ENEM, militares, universitárias etc.  
 
 ---
 
-## 📎 Exemplos de prompts que uso
+## 🔍 Fluxo de Trabalho
 
-### ✅ 1. Envio com critérios de correção
+1. **Escrita Manual** - Primeira versão à mão (simulando condições reais de prova)  
+2. **Digitalização** - Captura da redação via foto/scanner  
+3. **Análise com IA** - Envio ao ChatGPT com:  
+   - 📜 Texto original  
+   - 🧾 Critérios oficiais da banca  
+   - ✨ Prompt estruturado  
+4. **Comparativo** - Análise lado a lado entre minha versão e:  
+   - 🔴 Correções pontuais  
+   - 🟢 Versão otimizada  
+5. **Aprendizado** - Internalização dos padrões de excelência  
 
+---
+
+## 💡 Banco de Prompts
+
+### 📌 Modelo Básico de Correção
 ```markdown
-Com base nesses critérios de correção da redação (copiados abaixo), atribua uma nota à minha redação e justifique. 
+Atue como corretor especializado em redações para [NOME DA BANCA]. 
 
-[Cole aqui os critérios da banca — exemplo da Marinha:]
-
-6.2.1.2 - Aspectos a serem considerados na correção da Redação, totalizando 100 pontos:  
-a) Temática e tipologia textual: enquadramento do texto (20 pontos);  
-b) Desenvolvimento argumentativo: processo de seleção e aprofundamento de ideias; organização de texto (20 pontos);  
-c) Repertório cultural: articulação da realidade do texto com a realidade cultural evidente (20 pontos);  
-d) Coesão e Coerência: construção/articulação entre as ideias (20 pontos);  
-e) Modalidade Linguística: expressividade da ideia de acordo com a variedade formal da língua (20 pontos).  
-```
-
-[Depois disso, envio a imagem da redação.]
-
-```markdown
-Reescreva a redação com base no tema proposto e nos critérios da banca para alcançar a pontuação máxima, mantendo o sentido e a ideia central da versão original.
-```
-
-```markdown
-Corrija os erros gramaticais, de ortografia e coesão textual da redação abaixo, mas sem mudar a estrutura original. Apenas melhore a fluidez e a correção formal do texto.
-```markdown
-
+- Analise esta redação com base nestes critérios oficiais: [COLAR CRITÉRIOS]  
+- Atribua nota estimada em cada competência  
+- Destaque 3 pontos fortes e 3 oportunidades de melhoria  
+- Sugira versão reescrita dos parágrafos problemáticos  
 ```markdown
 Se você fosse um corretor mais exigente, quanto minha nota seria reduzida? O que está mais fraco na argumentação, coesão ou repertório cultural?
 ```markdown
