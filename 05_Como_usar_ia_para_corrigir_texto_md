@@ -1,51 +1,28 @@
-# 📝 Uso do ChatGPT para Revisão e Correção de Redações
+📝 Revisão de Redações com ChatGPT (Marinha/ENEM)
+Método para correção de redações usando IA, adaptado aos critérios oficiais de bancas examinadoras.
 
-Este repositório documenta minha metodologia de utilização do ChatGPT como ferramenta de apoio para **revisão e aprimoramento de redações**, com foco em concursos públicos (como Marinha do Brasil) e vestibulares (ENEM e outros). Aqui compartilho:
-
-- 📌 **Estrutura de prompts** eficientes  
-- 🎯 **Critérios de correção** adaptados por banca examinadora  
-- ✍️ **Exemplos práticos** de análise e reescrita textual  
-
----
-
-## 🚀 Objetivos Principais
-
-Melhorar minhas redações em cinco eixos essenciais:
-
-1. **Clareza e Coesão** - Organização lógica das ideias  
-2. **Adequação Temática** - Alinhamento preciso com a proposta  
-3. **Argumentação** - Estrutura sólida e persuasiva  
-4. **Precisão Linguística** - Gramática, ortografia e norma culta  
-5. **Adaptação a Bancas** - ENEM, militares, universitárias etc.  
-
----
-
-## 🔍 Fluxo de Trabalho
-
-1. **Escrita Manual** - Primeira versão à mão (simulando condições reais de prova)  
-2. **Digitalização** - Captura da redação via foto/scanner  
-3. **Análise com IA** - Envio ao ChatGPT com:  
-   - 📜 Texto original  
-   - 🧾 Critérios oficiais da banca  
-   - ✨ Prompt estruturado  
-4. **Comparativo** - Análise lado a lado entre minha versão e:  
-   - 🔴 Correções pontuais  
-   - 🟢 Versão otimizada  
-5. **Aprendizado** - Internalização dos padrões de excelência  
-
----
-
-## 💡 Banco de Prompts
-
-### 📌 Modelo Básico de Correção
+🔍 Como Utilizar
+1. Correção Básica
+Para análise gramatical e estrutural simples:
 ```markdown
-Atue como corretor especializado em redações para [NOME DA BANCA]. 
+Com base nesses critérios de correção da redação (copiados abaixo), atribua uma nota à minha redação e justifique. 
 
-- Analise esta redação com base nestes critérios oficiais: [COLAR CRITÉRIOS]  
-- Atribua nota estimada em cada competência  
-- Destaque 3 pontos fortes e 3 oportunidades de melhoria  
-- Sugira versão reescrita dos parágrafos problemáticos  
+[Cole aqui os critérios da banca — exemplo da Marinha:]
+
+6.2.1.2 - Aspectos a serem considerados na correção da Redação, totalizando 100 pontos:  
+a) Temática e tipologia textual: enquadramento do texto (20 pontos);  
+b) Desenvolvimento argumentativo: processo de seleção e aprofundamento de ideias; organização de texto (20 pontos);  
+c) Repertório cultural: articulação da realidade do texto com a realidade cultural evidente (20 pontos);  
+d) Coesão e Coerência: construção/articulação entre as ideias (20 pontos);  
+e) Modalidade Linguística: expressividade da ideia de acordo com a variedade formal da língua (20 pontos).  
+```
+
+2. Correção da redação
 ```markdown
-Se você fosse um corretor mais exigente, quanto minha nota seria reduzida? O que está mais fraco na argumentação, coesão ou repertório cultural?
+Corrija os erros gramaticais, de ortografia e coesão textual da redação abaixo, mas sem mudar a estrutura original. Apenas melhore a fluidez e a correção formal do texto.
+```
+3. Comando de Reescrita
+Para otimização do texto:
 ```markdown
-O tema era: "Oceanopolítica e economia do mar: desafios e oportunidades para o desenvolvimento estratégico do Brasil". Minha redação está bem alinhada ao tema? Ou você acha que houve uma fuga parcial ou total?
+Reescreva a redação com base no tema proposto e nos critérios da banca para alcançar a pontuação máxima, mantendo o sentido e a ideia central da versão original.
+```
